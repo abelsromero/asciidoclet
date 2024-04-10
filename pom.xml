@@ -4,7 +4,7 @@
 
     <groupId>org.asciidoctor</groupId>
     <artifactId>asciidoclet</artifactId>
-    <version>2.0.0-SNAPSHOT</version>
+    <version>2.0.0</version>
     <packaging>jar</packaging>
 
     <name>AsciiDoc Javadoc Doclet</name>
@@ -32,7 +32,8 @@
         <url>scm:git:git@github.com:abelsromero/asciidoclet.git</url>
         <connection>scm:git:git@github.com:abelsromero/asciidoclet.git</connection>
         <developerConnection>scm:git:git@github.com:abelsromero/asciidoclet.git</developerConnection>
-    </scm>
+      <tag>asciidoclet-2.0.0</tag>
+  </scm>
 
     <properties>
         <currentYear>${maven.build.timestamp}</currentYear>
